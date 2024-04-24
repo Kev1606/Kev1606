@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Kevin Nunez Cruz.<br><br>I am currently a student at the Technological of Costa Rica. In addition to academic work, I am actively involved in the back-end development of a research project associated with the Technological School of Business Administration.<br><br>Skills: Experienced in developing a diverse range of applications, including basic automation tools as well as advanced web and desktop automation and GUI development. Proficient in quickly acquiring new skills and adaptable to working independently or as part of a team. Always able to learn and experiencing new things.
+My name is Kevin Nunez Cruz.<br><br>I am currently a student at the Technological of Costa Rica.<br><br>Skills: Experienced in developing a diverse range of applications, including basic automation tools as well as advanced web and desktop automation and GUI development. Proficient in quickly acquiring new skills and adaptable to working independently or as part of a team. Always able to learn and experiencing new things.
 
 
 ## 🌐 Socials:
